@@ -1,6 +1,5 @@
 import {BrowserRouter, Route, Routes, } from 'react-router-dom'
 import './App.css';
-import Sidebar from './components/Sidebar';
 import LandingScreen from './screens/LandingScreen';
 
 
